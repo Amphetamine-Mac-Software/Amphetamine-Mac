@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkb2eDdVgkxZ1CTjYaUsDuNw1ePwQhaaz8g&s" width="1080"/>
+  <img src="https://camo.githubusercontent.com/bc2097902bb298517062e657665ddd028be3575c593b1fde4e400c40a7774f73/68747470733a2f2f70682d66696c65732e696d6769782e6e65742f35313234353834332d316439312d346564652d623165362d6535383739313061326238342e6a7065673f6175746f3d666f726d6174266669743d63726f70" width="1080"/>
 </div>  
 <br>
 
